@@ -1,0 +1,7 @@
+C:\Users\angel\Desktop\Patron_conception\Patron_conception\obj\Debug\Patron_conception.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\Patron_conception\Patron_conception\obj\Debug\Patron_conception.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\Patron_conception\Patron_conception\bin\Debug\Patron_conception.exe.config
+C:\Users\angel\Desktop\Patron_conception\Patron_conception\bin\Debug\Patron_conception.exe
+C:\Users\angel\Desktop\Patron_conception\Patron_conception\bin\Debug\Patron_conception.pdb
+C:\Users\angel\Desktop\Patron_conception\Patron_conception\obj\Debug\Patron_conception.exe
+C:\Users\angel\Desktop\Patron_conception\Patron_conception\obj\Debug\Patron_conception.pdb

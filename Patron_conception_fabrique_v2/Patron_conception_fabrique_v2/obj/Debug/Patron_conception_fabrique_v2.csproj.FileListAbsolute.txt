@@ -1,0 +1,7 @@
+C:\Users\angel\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\angel\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\angel\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\angel\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\Patron_conception_fabrique_v2.csprojAssemblyReference.cache
+C:\Users\angel\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\Patron_conception_fabrique_v2.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\angel\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
